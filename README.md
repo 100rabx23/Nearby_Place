@@ -1,4 +1,4 @@
-Step-by-Step Guide for Your Nearbyr_Place Application:
+**Step-by-Step Guide for Your Nearbyr_Place Application:**
 User Location:
 
 Implement location services to determine the user's current location.
